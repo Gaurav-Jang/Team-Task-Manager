@@ -6,8 +6,8 @@ This is a full-stack Team Task Manager web application made for placement assign
 
 # Live Links
 
-* Frontend: [Add your frontend deployed link here](https://team-task-manager-inz3.vercel.app/)
-* Backend: [Add your backend API link here](https://team-task-manager-sevp.onrender.com)
+* Frontend: https://team-task-manager-inz3.vercel.app/
+* Backend: https://team-task-manager-sevp.onrender.com
 
 ---
 
